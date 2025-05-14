@@ -1,0 +1,10 @@
+# Template specific
+poetry.lock
+
+#
+venv/
+.venv/
+__pycache__
+.ruff_cache
+
+
