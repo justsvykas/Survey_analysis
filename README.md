@@ -2,7 +2,7 @@
 
 This project is analysis of mental health issues in tech industry using data from OSMI (Open Soure Mental Illness) survey. In this project I have used bootsraping method to estimate confidence intervals of prevelance rate of mental health disorders in tech industry.
 
-![Confidence Intervals](src/mental_health/CI.png)
+![Confidence Intervals](src/mental_health/wordc_cloud.png)
 
 # Main findings
 
