@@ -17,7 +17,7 @@ To improve mental health support for employees I advice:
 - There is evidence people are becoming more open about mental health issues in interviews as at the start of the survey in 2014 there were 80% categorically closed respondents while in 2019 there were 68%. So there is possibility to be open with one third of employees from the start of their career at the company.
 
 # Dependencies
-Below are dependencies required to have to install project into your local machine. However, there is **main.html** file in the root of the project that can be used to view the analysis without installing the project.
+Below are dependencies required to have to install project into your local machine. However, there is **main.html** file in the root of the project that can be used to view the analysis without installing the project. Just download the file and open it in your browser.
 
 - Python 3.12
 - poetry
